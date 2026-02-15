@@ -2,6 +2,8 @@
 
 ![Screenshot](./ClipboardImageLogger.png)
 
+**Download**: [ClipboardImageLogger.zip](https://github.com/alexz006/Clipboard-Image-Logger/releases/download/ClipboardImageLogger/ClipboardImageLogger.zip)
+
 ## EN
 
 A little tool for paranoids who worry that someone (or something) is taking screenshots without your knowledge.  
